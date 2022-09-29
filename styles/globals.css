@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
 html,
 body {
   padding: 0;
@@ -23,4 +25,14 @@ a {
     color: white;
     background: black;
   }
+}
+
+input {
+  height: 56px;
+  width: 452px;
+  border: 1px solid #e7e7e7;
+  padding-left: 24px;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
 }

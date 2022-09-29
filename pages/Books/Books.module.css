@@ -1,0 +1,24 @@
+.bookContainer {
+  width: 1440px;
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.booksWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 1440px;
+  gap: 30px;
+  flex: 1 0 21%;
+}
+
+.searchInputContainer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,21 @@
+.bookCardContainer {
+  display: flex;
+  width: 280px;
+  flex-wrap: wrap;
+  gap: 32px;
+  flex-direction: column;
+}
+
+.authorWrapper {
+  color: darkgreen;
+  font-weight: 500;
+}
+
+.titleWrapper {
+  font-weight: 700;
+  font-size: 16px;
+  max-height: 120px;
+}
+
+.imageWrapper {
+}
